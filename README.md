@@ -35,6 +35,9 @@ Cuối cùng, chạy file `main.py` để khởi động giao diện phát hiệ
 python main.py
 ```
 
+### Kết quả demo
+![AI Detection Result](media/result.gif)
+
 ## Các loại lỗi có thể phát hiện
 Model hiện tại được cấu hình để nhận diện 5 loại lỗi chính:
 - **Blobbing**: Lỗi vón cục nhựa.
